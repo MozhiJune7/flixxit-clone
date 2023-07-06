@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/flixxit-clone/static/css/main.53fc056b.css",
+    "main.js": "/flixxit-clone/static/js/main.27d57153.js",
+    "static/media/logo.png": "/flixxit-clone/static/media/logo.2e2cac1eaa81caf5b0d3.png",
+    "index.html": "/flixxit-clone/index.html",
+    "main.53fc056b.css.map": "/flixxit-clone/static/css/main.53fc056b.css.map",
+    "main.27d57153.js.map": "/flixxit-clone/static/js/main.27d57153.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53fc056b.css",
+    "static/js/main.27d57153.js"
+  ]
+}
